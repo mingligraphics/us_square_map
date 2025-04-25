@@ -1,0 +1,9 @@
+{
+	"capi": false,
+	"https": false,
+	"fallbackImage": "",
+	"framework": "svelte",
+	"layout": "bleed",
+	"slug": "cstudent",
+	"uuid": "db267bb0-7188-4854-a949-b0612e79ad36"
+}
